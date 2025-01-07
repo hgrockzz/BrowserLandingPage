@@ -172,8 +172,8 @@ window.CONFIG = {
       category: "Programming",
       name: "Harshit",
       icon: "harshit",
-      url: "https://hgrockzz.netlify.app",
-      normalisedURL: "hgrockzz.netlify.app",
+      url: "https://webdevharshit.netlify.app",
+      normalisedURL: "webdevharshit.netlify.app",
       triggers: ["h", "harshit", "hgrockzz", "hg", "portfolio"],
       key: "KeyH",
       bgColor: {
